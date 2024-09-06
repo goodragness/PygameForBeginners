@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="w-6Ev8RtAzafZus9tdRu">
-    <mxGraphModel>
+    <mxGraphModel dx="588" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-3aef1192-7fff-d839-6e28-d208313f342d&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:602px;height:301px;&quot;&gt;&lt;img style=&quot;margin-left:0px;margin-top:0px;&quot; height=&quot;301&quot; width=&quot;602&quot; src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7ABAa950llTb8jjv9wVyv-hUYYr5TMaSXwP0Zou6PubCu0j22OSnL93gA__pentRRnl7RUz05aRuPml9qxgOdLLWrF1Vl1pL5JamkMbMWAmDEq0uvY22aGo71RsKCSXbaXkYzGyKXAQICGxXtK4JZiaI?key=Hl6NOY4PppLhnjgevsWC4Q&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" link="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-3aef1192-7fff-d839-6e28-d208313f342d&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:602px;height:301px;&quot;&gt;&lt;img style=&quot;margin-left:0px;margin-top:0px;&quot; height=&quot;301&quot; width=&quot;602&quot; src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7ABAa950llTb8jjv9wVyv-hUYYr5TMaSXwP0Zou6PubCu0j22OSnL93gA__pentRRnl7RUz05aRuPml9qxgOdLLWrF1Vl1pL5JamkMbMWAmDEq0uvY22aGo71RsKCSXbaXkYzGyKXAQICGxXtK4JZiaI?key=Hl6NOY4PppLhnjgevsWC4Q&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" id="mk8Lu_ufkkiajPplNnEH-1">
+          <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="340" y="110" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-2" value="&lt;u&gt;Customer_id&lt;/u&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="121" y="420" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-3" value="Customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mk8Lu_ufkkiajPplNnEH-8" target="mk8Lu_ufkkiajPplNnEH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mk8Lu_ufkkiajPplNnEH-4" target="mk8Lu_ufkkiajPplNnEH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-4" value="staff_id&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-5" value="Staff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-6" value="STAFFID&lt;div&gt;NAME&lt;/div&gt;&lt;div&gt;ROLE&lt;/div&gt;&lt;div&gt;CONTACT&lt;/div&gt;&lt;div&gt;SALARY&lt;/div&gt;&lt;div&gt;ADDRESS&lt;/div&gt;&lt;div&gt;SHIFT&lt;/div&gt;&lt;div&gt;JOB_TYPE&lt;/div&gt;&lt;div&gt;PURCHASING_&lt;/div&gt;&lt;div&gt;MANAGER(Y/N)&lt;/div&gt;&lt;div&gt;JOINT_DATE&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="910" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mk8Lu_ufkkiajPplNnEH-4" target="mk8Lu_ufkkiajPplNnEH-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="790" as="sourcePoint" />
+            <mxPoint x="250" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-8" value="PURCHAING MANAGER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-10" value="staff_id&lt;div&gt;NAME&lt;/div&gt;&lt;div&gt;ROLE&lt;/div&gt;&lt;div&gt;CONTAACT&lt;/div&gt;&lt;div&gt;SALARY&lt;/div&gt;&lt;div&gt;ADDRESS&lt;/div&gt;&lt;div&gt;SHIFT&lt;/div&gt;&lt;div&gt;ROLE&lt;/div&gt;&lt;div&gt;JOINT_DATE&lt;/div&gt;&lt;div&gt;ACCOUNTING(Y/N)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="491" y="910" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mk8Lu_ufkkiajPplNnEH-12" value="ACCOUNTING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
